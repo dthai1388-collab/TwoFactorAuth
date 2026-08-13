@@ -10,3 +10,6 @@ obj/
 
 # Windows temp / scripts
 dotnet-install.ps1
+publish/
+*.zip
+

@@ -1,0 +1,12 @@
+# .NET / C# gitignore
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+*.log
+
+# Windows temp / scripts
+dotnet-install.ps1

@@ -1,4 +1,4 @@
-using SimpleWebApi.Services;
+using TwoFactorAuth.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

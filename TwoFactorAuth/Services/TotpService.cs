@@ -3,7 +3,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Web;
 
-namespace SimpleWebApi.Services;
+namespace TwoFactorAuth.Services;
 
 public record TotpResult(
     string Code,
